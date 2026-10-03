@@ -194,7 +194,7 @@ This skill establishes the standardized workflow, typography, layout, OMML math 
 ## 6. Export Paths & Delivery
 
 Always export generated documents to the user's primary project directory:
-- **Default Export Folder:** `C:\Users\Labib\OneDrive\Desktop\Antigravity\`
+- **Default Export Folder:** `C:\AG\`
 - **Files to Deliver:**
   1. `[Subject]_Questions_and_Solutions.docx`
   2. `[Subject]_Questions_and_Solutions.pdf` (converted via Word COM `convert_doc.ps1`)
